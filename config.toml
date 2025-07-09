@@ -1,0 +1,4 @@
+app_name   = "strata_hub"
+http_port  = 8080
+env        = "dev"
+enable_tls = false
